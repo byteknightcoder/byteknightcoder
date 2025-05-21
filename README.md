@@ -1,8 +1,8 @@
 👋 About Me
 I’m Timothy Pena, a Senior Software Engineer with over 8 years of experience designing, developing, and delivering robust software solutions across enterprise, fintech, and e-commerce domains. I specialize in .NET technologies, building scalable backend systems, secure APIs, and efficient database-driven applications.
-I’ve contributed to high-impact projects at companies like Dell Technologies, Secure Haven LLC, and Dwareapps, where I’ve led backend development efforts, integrated complex third-party APIs, and optimized large-scale distributed systems in production environments.
-My development approach emphasizes clean architecture, modular design, and performance-first engineering. I’m equally comfortable working in cloud-native environments (AWS, Azure) and hybrid on-prem setups, and I regularly collaborate with cross-functional teams to ship reliable, maintainable code.
-This GitHub showcases both my freelance and personal work—real-world applications, technical demos, and side projects that reflect my passion for quality engineering and practical software design.
+I’ve contributed to high-impact projects at companies like Dell Technologies, Secure Haven LLC, and Dwareapps. In these roles, I’ve led backend development efforts, integrated complex third-party APIs, and optimized large-scale distributed systems in production environments.
+My development approach emphasizes clean architecture, modular design, and performance-focused engineering. I’m comfortable working in both cloud-native environments such as AWS and Azure, as well as hybrid on-premise setups. I regularly collaborate with cross-functional teams to ship reliable and maintainable code.
+This GitHub profile includes a mix of freelance and personal projects. These reflect real-world applications, technical demonstrations, and side work that showcase my passion for quality engineering and practical software design.
 
 🧰 Core Competencies
 - Backend Engineering: .NET Core, ASP.NET Web API, Entity Framework Core, ADO.NET, Dapper
