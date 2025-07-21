@@ -1,4 +1,4 @@
-👋 Hi! I'm a Full Stack Developer with over 10 years of experience building secure, scalable, and high-performance web applications. My focus is on delivering production-ready solutions using modern frameworks, CI/CD practices, and cloud-native architectures.
+👋 Hi! I'm a Full Stack Developer with 10 years of experience building secure, scalable, and high-performance web applications. My focus is on delivering production-ready solutions using modern frameworks, CI/CD practices, and cloud-native architectures.
 
 🔧 Tech I Work With
 Languages: PHP, JavaScript, TypeScript, C#
