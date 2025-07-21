@@ -1,28 +1,36 @@
-👋 Hi, I’m Timothy Pena, a Senior Software Engineer with over 10 years of experience designing, developing, and delivering robust software solutions across enterprise, fintech, and e-commerce domains. I specialize in .NET technologies, building scalable backend systems, secure APIs, and efficient database-driven applications.
-I’ve contributed to high-impact projects at companies like Dell Technologies, Secure Haven LLC, and Dwareapps. In these roles, I’ve led backend development efforts, integrated complex third-party APIs, and optimized large-scale distributed systems in production environments.
-My development approach emphasizes clean architecture, modular design, and performance-focused engineering. I’m comfortable working in both cloud-native environments such as AWS and Azure, as well as hybrid on-premise setups. I regularly collaborate with cross-functional teams to ship reliable and maintainable code.
-This GitHub profile includes a mix of freelance and personal projects. These reflect real-world applications, technical demonstrations, and side work that showcase my passion for quality engineering and practical software design.
+👋 Senior Full Stack Developer
+I'm a Full Stack Developer with over 10 years of experience building secure, scalable, and high-performance web applications. My focus is on delivering production-ready solutions using modern frameworks, CI/CD practices, and cloud-native architectures.
 
-🧰 Core Competencies
-- Backend Engineering: .NET Core, ASP.NET Web API, Entity Framework Core, ADO.NET, Dapper
-- Frontend Development: Angular 17, React, Blazor, Razor Pages, HTML5, CSS3, Bootstrap
-- Database Systems: SQL Server, PostgreSQL, MySQL, MongoDB
-- Architecture & Patterns: Microservices, Clean Architecture, Onion, DDD, N-Tier
-- Cloud Platforms: AWS (Lambda, RDS, SES, SNS), Azure (App Services, Storage, Key Vault)
-- DevOps & Testing: Git/GitHub, CI/CD, xUnit, NUnit, Jasmine, Postman, Docker
-- API Development: RESTful APIs, Web Services, SOAP, SignalR, WCF
+🔧 Tech I Work With
+Languages: PHP, JavaScript, TypeScript, C#
 
-🔨 Projects & Highlights
-- Enterprise Banking Platforms: Built secure, high-volume APIs and internal tools for managing transactions, reporting, and compliance in financial systems.
-- E-Commerce & Inventory Portals: Developed product and order management systems with responsive UIs and dynamic dashboards.
-- Government API Integrations: Delivered full-scale API implementations for ZATCA and Lezam using secure .NET Web APIs, ADO.NET, and EF Core.
-- After Sales & Internal Portals: Architected full-stack solutions for service teams using Angular, .NET Core, and SQL Server in distributed environments.
-- Graduation & Personal Projects: Created academic tools, blogging platforms, and e-commerce apps using modern JS frameworks and backend APIs.
+Backend: Node.js, Express.js, Laravel, .NET Core
 
-🌱 What I’m Working On
-Publishing technical repositories and clean code samples for .NET beginners and mid-level devs
-Building sample microservices architecture using .NET 8, Dapr, and gRPC
-Exploring AI and automation workflows using OpenAI API and custom .NET integrations
+Frontend: React, Angular, Vue.js
 
-🤝 Let’s Connect
-Whether you're a recruiter looking for a skilled .NET engineer, a founder building your MVP, or another developer interested in collaboration, I’d love to connect.
+Databases: SQL Server, PostgreSQL, MySQL, MongoDB
+
+DevOps & Cloud: AWS (Lambda, ECS, S3), Azure, Docker, Kubernetes, GitHub Actions
+
+Architecture: Microservices, Serverless, RESTful APIs
+
+Workflow: Agile, Scrum, CI/CD, Git
+
+💼 What I Do
+Architect and develop end-to-end web applications using modern full-stack technologies.
+
+Build APIs and microservices optimized for performance and security.
+
+Lead and mentor teams, perform code reviews, and manage DevOps pipelines.
+
+Integrate cloud solutions using AWS and Docker containers, with Kubernetes orchestration.
+
+🚀 Recent Highlights
+Migrated legacy PHP apps to modern Laravel + Vue.js stack with improved scalability.
+
+Designed cloud-native CI/CD pipelines using GitHub Actions and Docker.
+
+Built a multi-tenant SaaS platform with microservices and serverless components (AWS Lambda).
+
+📫 Let's Connect
+I'm always open to collaborating on exciting projects or sharing ideas around scalable full-stack development. Check out my pinned repos for live demos, code samples, and more.
